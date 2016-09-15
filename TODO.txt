@@ -1,0 +1,6 @@
+
+* Remember (by placing a file) which directory was used as server and which as client. Show a warning and allow withdraw in the case of contradiction with previous runs
+* Remember servers/clients and offer last setting. Allow to choose from all previously used settings. Order by last used.
+
+Done:
+add HTML summary report
